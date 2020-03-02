@@ -3,6 +3,7 @@ package ejercicio1;
 import java.io.Serializable;
 
 public class Visita implements Serializable{
+	//yoksetio
 	public String getNombre() {
 		return nombre;
 	}
